@@ -1,1 +1,1 @@
-# Web2
+# Web2（javaScript）
